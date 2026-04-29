@@ -13,7 +13,7 @@ File Excel tidak diunggah langsung ke repositori karena ukuran file melebihi bat
 
 Dataset yang digunakan dalam project ini berasal dari:
 Kaggle – E-Commerce Data
-(https://www.kaggle.com/datasets/carrie1/ecommerce-data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+(https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 Dataset ini berisi data transaksi penjualan online, termasuk informasi seperti invoice, produk, quantity, harga, tanggal transaksi, dan negara.
 
